@@ -15,6 +15,7 @@ This repository provides the code and data to reproduce the results of **Meta-Tr
 
 Compared with traditional PINN and Meta-PINN, our method significantly reduces meta-training time while maintaining or even improving convergence speed.
 
+![LOGO](https://github.com/chengzhijun-czj/MTPINN/blob/main/meta-transfer-learning.jpg)
 ---
 
 # 📁 Project structure
