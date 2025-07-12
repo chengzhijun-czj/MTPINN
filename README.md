@@ -17,7 +17,7 @@ Compared with traditional PINN and Meta-PINN, our method significantly reduces m
 
 ---
 
-# Project structure
+# 📁 Project structure
 This repository is organized as follows:
 
 * :open_file_folder: **code**: python library containing routines for MTPINN;
@@ -39,14 +39,3 @@ This repository is organized as follows:
 
 ---
 
-## 🛠️ Requirements
-
-- Python 3.8+
-- PyTorch >= 1.10
-- NumPy, SciPy, Matplotlib
-- (Optional) GPU with >= 56GB memory for full-scale meta-training
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
