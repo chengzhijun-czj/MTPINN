@@ -39,4 +39,23 @@ This repository is organized as follows:
 > We propose a meta-transfer learning strategy for physics-informed neural networks (PINNs) to improve seismic wavefield modeling. By fusing transfer learning with MAML, we reduce the dual-loop computational overhead of standard meta-learning. we optimize the meta-model by performing fast gradient updating for a single velocity model on the support set, and then employing a parameter averaging strategy for multiple velocity models on the query set, and the resulting initialization is used for regular training of the new velocity model. This significantly reduces the computational cost of meta-training while preserving convergence speed. Experiments on layered, overthrust, and diverse velocity models confirm the effectiveness and efficiency of our approach.
 
 ---
+## 🚀 Running code 
+
+For metatransfer-train, you can directly run:
+```
+python metatransfertrain.py
+```
+
+For meta-test, you can directly run:
+```
+python metatest.py
+```
+**Note:** When you run demo for meta-test, you need open the `code/metatest.py` file to specify the path for meta initialization model. 
+
+If you need to compare with a randomly initialized network, you can set the configuration value of `args.use_meta` in the `code/metatest.py` file to `False`,
+and then run:
+```
+python metatest.py
+```
+
 
