@@ -17,6 +17,13 @@ Compared with traditional PINN and Meta-PINN, our method significantly reduces m
 
 ---
 
+# Project structure
+This repository is organized as follows:
+
+* :open_file_folder: **code**: python library containing routines for MTPINN;
+* :open_file_folder: **dataset**: folder to store dataset.
+
+---
 ## 🔍 Key Features
 
 - ✅ **Fast Adaptation** to new seismic velocity models using a meta-learned initialization.
