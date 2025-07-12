@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.9.7 (sftp://zjchen@10.10.58.104:22/opt/anaconda3/bin/python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Meta-PINN" project-jdk-type="Python SDK" />
+</project>
