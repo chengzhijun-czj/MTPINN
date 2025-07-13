@@ -1,6 +1,4 @@
 # -----------------------------------------------------------------------------
-# Author: Shijun Cheng
-# Contact Email: sjcheng.academic@gmail.com
 # Description: Meta-training script for Meta-PINN. This code performs 
 #              meta-training using a MAML-like framework for PDE-based tasks.
 #              It loads training data, performs inner and outer optimization 
