@@ -24,6 +24,13 @@ This repository is organized as follows:
 
 * :open_file_folder: **code**: python library containing routines for MTPINN;
 * :open_file_folder: **dataset**: folder to store dataset.
+* :open_file_folder: **trained_model**: meta-trained model for Meta-PINN and Meta-transfer PINN.
+
+---
+
+## Supplementary files
+To ensure reproducibility, we provide the the data set for meta-train and meta-test stages, and the meta-trained model for Meta-transfer PINN and Meta-PINN. 
+
 
 ---
 ## 🔍 Key Features
