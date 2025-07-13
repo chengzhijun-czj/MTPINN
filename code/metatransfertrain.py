@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
-# Author: Shijun Cheng
-# Contact Email: sjcheng.academic@gmail.com
+# Author: Zhijun Cheng
+# Contact Email: zhijun@smail.fjut.edu.cn
 # Description: Meta-training script for MetaTransfer-PINN. This code performs 
 #              meta-training using a MetaTransfer-like framework for PDE-based tasks.
 #              It loads training data, performs inner and outer optimization 
