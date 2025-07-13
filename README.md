@@ -28,11 +28,6 @@ This repository is organized as follows:
 
 ---
 
-## Supplementary files
-To ensure reproducibility, we provide the the data set for meta-train and meta-test stages, and the meta-trained model for Meta-transfer PINN and Meta-PINN. 
-
-
----
 ## 🔍 Key Features
 
 - ✅ **Fast Adaptation** to new seismic velocity models using a meta-learned initialization.
