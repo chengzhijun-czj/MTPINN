@@ -57,7 +57,7 @@ For meta-test, you can directly run:
 ```
 python metatest.py
 ```
-**Note:** When you run demo for meta-test, you need open the `code/metatest.py` file to specify the path for meta initialization model. 
+**Note:** When you run demo for meta-test, you need open the `code/metatest.py` file to specify the path for meta initialization model. Here, we provide meta-training models for Meta-transfer PINN and Meta-PINN in trained_model file, you can directly load meta-initialization model to perform meta-test.
 
 If you need to compare with a randomly initialized network, you can set the configuration value of `args.use_meta` in the `code/metatest.py` file to `False`,
 and then run:
