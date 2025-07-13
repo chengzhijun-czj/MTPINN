@@ -1,7 +1,7 @@
 
 # Meta-Transfer PINN for Seismic Wavefield Modeling
 **"Meta-Transfer Learning for Efficient Initialization of Neural Network Wavefield Solutions"**  
-Zhijun Cheng, Shijun Cheng, Xiang Wang, Guojun Mao and Weijian Mao  
+Zhijun Cheng(✉️ `<zhijun@smail.fjut.edu.cn>`) , Shijun Cheng, Xiang Wang, Guojun Mao and Weijian Mao  
 
 ---
 
