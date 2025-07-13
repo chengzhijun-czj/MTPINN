@@ -1,5 +1,4 @@
 # -----------------------------------------------------------------------------
-# Author: Shijun Cheng
 # Description:
 # This script performs meta-testing (or validation/testing phase) for the 
 # meta-trained Meta-PINN model. It:
