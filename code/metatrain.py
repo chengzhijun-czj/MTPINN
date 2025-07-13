@@ -1,10 +1,9 @@
-# -----------------------------------------------------------------------------
-# Description: Meta-training script for Meta-PINN. This code performs 
-#              meta-training using a MAML-like framework for PDE-based tasks.
-#              It loads training data, performs inner and outer optimization 
-#              loops, logs progress, periodically saves checkpoints, and 
-#              includes validation and testing steps.
-# -----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------
+# Description: Meta-training script for Meta-PINN,cited from https://github.com/sunnyshijuncheng/Meta-PINN. 
+#              This code performs meta-training using a MAML-like framework for PDE-based tasks.It loads 
+#              training data, performs inner and outer optimization loops, logs progress, periodically saves 
+#              checkpoints, and includes validation and testing steps.
+# ----------------------------------------------------------------------------------------------------------
 
 import  os
 import  torch
